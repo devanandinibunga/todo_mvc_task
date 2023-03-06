@@ -1,0 +1,27 @@
+.todo-footer-container{
+    width: 450px;
+    display: flex;
+}
+.todo-footer-counter{
+    width:30%;
+}
+.todo-footer-middle-container{
+    width: 100%;
+    margin-top:1%;
+}
+.todo-footer-button{
+    width:auto;
+    margin: 1%;
+    border:0;
+}
+.todo-footer-button:hover{
+    border: 1px solid pink;
+}
+.todo-footer-right-button{
+    width:auto;
+    margin-top: 5%;
+    border: 0;
+}
+.todo-footer-right-button:hover{
+    border: 1px solid pink;
+}

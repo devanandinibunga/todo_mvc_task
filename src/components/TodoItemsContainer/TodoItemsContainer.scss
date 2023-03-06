@@ -1,0 +1,26 @@
+
+
+.todo-list-item{
+    width:450px;   
+}
+.close-button{
+    visibility: hidden;
+}
+.todo-list-item:hover .close-button{
+    // display: block;
+    visibility:visible;
+}
+.todo-list-item-checkbox{
+    width: 10%;
+    border-radius: 100%;
+    height:10%;
+}
+.todo-list-item-span{
+    width: 100px;
+    text-align: left;
+}
+.strike{
+    // width: 70%;
+    // text-align: left;
+    text-decoration: line-through;
+}
